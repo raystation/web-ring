@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "description": "A popular search engine and technology company."
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://www.wikipedia.org",
+    "description": "A free online encyclopedia with user-contributed content."
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "description": "A web-based hosting service for version control and collaboration."
+  },
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.com",
+    "description": "An e-commerce website offering various products and services."
+  },
+  {
+    "name": "Twitter",
+    "url": "https://www.twitter.com",
+    "description": "A social media platform for microblogging and sharing updates."
+  }
+]
